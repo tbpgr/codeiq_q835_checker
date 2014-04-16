@@ -8,23 +8,23 @@ Windows7 + GoogleChromeおよびFireFoxの最新バージョンで動作確認�
 
 ## インストール方法
 ### GoogleChromeの場合
-* [https://github.com/tbpgr/codeiq_q835_checker]にアクセスし、画面右側にある「Download ZIP」ボタンをクリックします。  
+* 当ページの画面右側にある「Download ZIP」ボタンをクリックします。  
   ※gitになれている方はcloneしてもらった方が早いです
 
 * ダウンロードしたZIPを解凍します。
 * GoogleChromeを起動します。
 * メニューからツール＝＞拡張機能を選択します。
-* 拡張機能のタブがアクティブで表示されている状態で、先ほどダウンロードした「deathmaw_answer_check.user.js」をドラッグ＆ドロップします。
+* 拡張機能のタブがアクティブで表示されている状態で、先ほどダウンロードした「deathma2_answer_check.user.js」をドラッグ＆ドロップします。
 * 以上で設定完了です
 
 ### FireFoxの場合
 ※あらかじめGreasemonkeyのアドオンをインストールしておきます
 
-* [https://github.com/tbpgr/codeiq_q835_checker]にアクセスし、画面右側にある「Download ZIP」ボタンをクリックします。
+* 当ページの画面右側にある「Download ZIP」ボタンをクリックします。
 * ダウンロードしたZIPを解凍します。
 * FireFoxを起動します。
 * Greasemonkeyのメニューからユーザースクリプトの管理を選択します。
-* 管理のタブがアクティブで表示されている状態で、先ほどダウンロードした「deathmaw_answer_check.user.js」をドラッグ＆ドロップします。
+* 管理のタブがアクティブで表示されている状態で、先ほどダウンロードした「deathma2_answer_check.user.js」をドラッグ＆ドロップします。
 * 以上で設定完了です
 
 ## 利用方法
